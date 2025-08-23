@@ -37,8 +37,8 @@ Open your terminal and navigate to the project folder.
 <br>
 Compile the program
 <br>
-Requirements
 <br>
+Requirements
 <br>
 Java (version 8 or above)
 <br>
